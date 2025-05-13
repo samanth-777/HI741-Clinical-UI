@@ -29,25 +29,18 @@ This is a Python-based GUI application. It simulates a Clinical Data Warehouse s
 ## ▶️ How to Run
 
 1. Clone the Repository
-'''
+```
 git clone https://github.com/your-username/Clinical-Data-Warehouse-UI.git
 cd Clinical-Data-Warehouse-UI
-'''
+```
 3. Set Up Python Environment
-'''
+```
 python3 -m venv venv
-
-Activate the environment:
-On macOS/Linux:
-'''
-source venv/bin/activate
-'''
-On Windows:
-'''
-venv\\Scripts\\activate
-'''
+source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
+```
 
 3. Run the GUI Application
+```
 python src/ui.py
-'''
+```
