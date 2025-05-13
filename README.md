@@ -1,15 +1,7 @@
-# HI 741 Final Project – Clinical Data Warehouse UI
+Clinical Data Warehouse UI
 
-This is a Python-based GUI application built for the final project in the course **HI 741: Programming in Health Informatics** at the University of Wisconsin–Milwaukee.
+This is a Python-based GUI application. It simulates a Clinical Data Warehouse system with **role-based access**, **patient record management**, **notes viewing**, and **key visit statistics** – all through a user-friendly Tkinter GUI.
 
-It simulates a Clinical Data Warehouse system with **role-based access**, **patient record management**, **notes viewing**, and **key visit statistics** – all through a user-friendly Tkinter GUI.
-
----
-
-## 📁 Repository Structure
-
-
----
 
 ## 🚀 Features
 
