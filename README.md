@@ -35,8 +35,8 @@ cd Clinical-Data-Warehouse-UI
 ```
 3. Set Up Python Environment
 ```
-python3 -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
