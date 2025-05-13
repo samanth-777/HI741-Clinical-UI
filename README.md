@@ -34,7 +34,8 @@ cd Clinical-Data-Warehouse-UI
 
 2. Set Up Python Environment
 python3 -m venv venv
-# Activate the environment:
+
+Activate the environment:
 On macOS/Linux:
 source venv/bin/activate
 On Windows:
