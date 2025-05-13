@@ -1,4 +1,4 @@
-Clinical Data Warehouse UI
+### Clinical Data Warehouse UI
 
 This is a Python-based GUI application. It simulates a Clinical Data Warehouse system with **role-based access**, **patient record management**, **notes viewing**, and **key visit statistics** – all through a user-friendly Tkinter GUI.
 
